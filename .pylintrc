@@ -1,0 +1,13 @@
+[MASTER]
+ignore=.venv,.codestyle-tools
+persistent=no
+
+[MESSAGES CONTROL]
+disable=
+    duplicate-code,
+    missing-function-docstring,
+    too-many-arguments,
+    too-many-instance-attributes,
+    too-many-lines,
+    too-many-locals,
+    too-many-positional-arguments
